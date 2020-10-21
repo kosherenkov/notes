@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kosherenkov/notes/static/css/main.6255ca5a.chunk.css",
+    "main.js": "/kosherenkov/notes/static/js/main.b539669f.chunk.js",
+    "main.js.map": "/kosherenkov/notes/static/js/main.b539669f.chunk.js.map",
+    "runtime-main.js": "/kosherenkov/notes/static/js/runtime-main.45452e1a.js",
+    "runtime-main.js.map": "/kosherenkov/notes/static/js/runtime-main.45452e1a.js.map",
+    "static/js/2.032fb0f5.chunk.js": "/kosherenkov/notes/static/js/2.032fb0f5.chunk.js",
+    "static/js/2.032fb0f5.chunk.js.map": "/kosherenkov/notes/static/js/2.032fb0f5.chunk.js.map",
+    "index.html": "/kosherenkov/notes/index.html",
+    "precache-manifest.57f837c4b918ad93f174b05459ecb153.js": "/kosherenkov/notes/precache-manifest.57f837c4b918ad93f174b05459ecb153.js",
+    "service-worker.js": "/kosherenkov/notes/service-worker.js",
+    "static/css/main.6255ca5a.chunk.css.map": "/kosherenkov/notes/static/css/main.6255ca5a.chunk.css.map",
+    "static/js/2.032fb0f5.chunk.js.LICENSE.txt": "/kosherenkov/notes/static/js/2.032fb0f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45452e1a.js",
+    "static/js/2.032fb0f5.chunk.js",
+    "static/css/main.6255ca5a.chunk.css",
+    "static/js/main.b539669f.chunk.js"
+  ]
+}
